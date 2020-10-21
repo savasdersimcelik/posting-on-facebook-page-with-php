@@ -1,2 +1,3 @@
-# posting-on-facebook-page-with-php
- PHP ile Facebook Sayfada'da Resim - Yazı - Link Paylaşma
+PHP ile Facebook üzerinde yer alan bir sayfanıza içerik paylaşmanıza imkan sağlar.
+
+API'ler ile ilgili : https://blog.damirmiladinov.com/php/getting-page-access-token-and-posting-on-facebook-page-with-php.html
